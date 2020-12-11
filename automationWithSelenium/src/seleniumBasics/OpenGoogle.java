@@ -8,6 +8,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
  * @author Arulprasath
  *
  */
+//example of open google
 public class OpenGoogle {
 
 public static void main(String[] args) throws InterruptedException {
